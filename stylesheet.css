@@ -1,0 +1,52 @@
+.main{
+    width: 100%;
+    background-image: url("https://img.freepik.com/free-photo/pastel-blue-vignette-concrete-textured-background_53876-102637.jpg?t=st=1678526954~exp=1678527554~hmac=4ff9228ab6595963d066b563035e6b0fcd565a6d350c2fc38099d0bdc36fe7d3");
+    background-size: cover;
+    height: 200px;
+    margin-top: 0px;
+    display: flex;
+}
+ .navbar{
+width: 1200px;
+height: 80px;
+margin-top: 10px;
+position: relative;
+margin-left: 8px
+
+}
+
+.menu{
+    width: 100%;
+    margin: auto;
+    position: absolute;
+    float: right;
+    top: 50px;
+
+}
+
+.list li{
+    text-decoration: none;
+    padding: 5px 5px;
+    display: inline;
+    margin-left: 8px;
+    background-color: rgb(90, 212, 221);
+    float: right;
+}
+.list li a{
+    text-decoration: solid;
+}
+.list li a:hover{
+    background-color: bisque;
+    padding: 10px 20px 10px 20px;
+}
+.form{
+    height: 250px;
+    width: 30%;
+    background-color: blueviolet;
+    margin: 20px 10px 20px 10px;
+    padding: 20px 10px 30px 10px;
+    }
+
+.label{
+    margin-bottom: 10px;
+}
